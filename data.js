@@ -1,4 +1,4 @@
-// Guess the Pivot — real apps, real pitches, real (sourced) B2C plot twists.
+// Real apps, real pitches, real (sourced) B2C plot twists.
 // Every "reveal" below is a documented, reported phenomenon — not instructions on how to do it.
 
 const ROUNDS = [

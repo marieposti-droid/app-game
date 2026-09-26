@@ -1,4 +1,4 @@
-# Guess the Pivot
+# App Game
 
 A tiny browser game: read the original pitch behind a real app or startup, guess a real B2C use it actually became known for, then see the sourced reveal.
 
